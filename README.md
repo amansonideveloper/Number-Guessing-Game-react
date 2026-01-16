@@ -1,3 +1,6 @@
+A beginner-friendly React Number Guessing Game built using Vite and React Hooks.
+
+
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
